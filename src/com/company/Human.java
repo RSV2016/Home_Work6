@@ -10,7 +10,7 @@ public class Human {
     int mounth = 3;
     int day  = 23;
 
-    public  Human( String n, String s, int y, int m, int d){
+    public  Human( String n, String s, int y, int m, int d){ //Молодец, написал свой конструктор!
         this.name  = n;
         this.sername = s;
         this.year = y;
